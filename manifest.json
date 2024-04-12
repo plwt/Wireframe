@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "version": "0.1",
+  "name": "Wireframe",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(232, 231, 234)",
+      "toolbar_text": "rgb(0, 0, 0)",
+      "frame": "rgb(115, 115, 117)",
+      "tab_background_text": "rgb(0, 0, 0)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(232, 231, 234)",
+      "popup": "rgb(255, 255, 255)",
+      "popup_text": "rgb(0, 0, 0)",
+      "tab_loading": "rgb(232, 231, 234)",
+      "ntp_background": "rgb(232, 231, 234)",
+      "toolbar_bottom_separator": "rgb(232, 231, 234)",
+      "popup_highlight": "rgb(255, 255, 255)",
+      "popup_highlight_text": "rgb(0, 0, 0)",
+      "ntp_card_background": "rgb(210, 209, 212)",
+      "ntp_text": "rgb(0, 0, 0)",
+      "toolbar_field_border": "rgb(0, 0, 0)",
+      "toolbar_field_border_focus": "rgb(0, 0, 0)"
+    }
+  }
+}
